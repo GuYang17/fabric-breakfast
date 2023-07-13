@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "breakfast:toast",
+  "experience": 0.35
+}

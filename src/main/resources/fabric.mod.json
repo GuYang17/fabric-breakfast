@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "breakfast",
+	"version": "${version}",
+	"name": "Breakfast!",
+	"description": "A simple mod adding a small collection of breakfast food. It's the most important meal of the day!",
+	"authors": [
+		"hisui"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/breakfast!",
+		"issues": "https://github.com/hiisuuii/fabric-breakfast/issues",
+		"sources": "https://github.com/hiisuuii/fabric-breakfast/"
+	},
+	"license": "MIT",
+	"icon": "assets/breakfast/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-datagen": [
+			"hisui.breakfast.DataGeneration"
+		],
+		"main": [
+          "hisui.breakfast.Main"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

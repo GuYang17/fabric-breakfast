@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "breakfast:toast",
+  "cookingtime": 600,
+  "experience": 0.35
+}

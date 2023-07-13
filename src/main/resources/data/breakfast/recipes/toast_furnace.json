@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "breakfast:toast",
+  "experience": 0.35
+}

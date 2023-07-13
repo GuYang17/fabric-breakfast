@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "T"
+  ],
+  "key": {
+    "B": {
+      "item": "breakfast:fried_egg"
+    },
+    "T": {
+      "item": "breakfast:toast"
+    }
+  },
+  "result": {
+    "item": "breakfast:egg_toast",
+    "count": 1
+  }
+}

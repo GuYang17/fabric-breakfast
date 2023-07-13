@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "breakfast:fried_egg",
+  "experience": 0.35
+}
